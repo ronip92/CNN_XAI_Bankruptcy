@@ -27,7 +27,7 @@ The example dataset used for this project can be downloaded from the following G
 Detailed results and analysis can be found in the notebook. Key findings include:
 
 1. **Feature Selection Rank - 36month.ipynb**
-   Feature selections:Identification of the most important financial ratios that contribute significantly to bankruptcy prediction, using feature selection techniques.
+   **Feature selections:** Identification of the most important financial ratios that contribute significantly to bankruptcy prediction, using feature selection techniques.
 
 2. **Images Generating Bankrupt - Lasso.ipynb**
    **Images Generating NonBankrupt - Lasso.ipynb**
