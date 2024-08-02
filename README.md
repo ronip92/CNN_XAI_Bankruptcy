@@ -29,7 +29,7 @@ The example dataset used for this project can be downloaded from the following G
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/CNN_XAI_Bankruptcy.git
+   git clone https://github.com/ronip92/CNN_XAI_Bankruptcy.git
    cd CNN_XAI_Bankruptcy
    ```
 
@@ -84,11 +84,3 @@ Detailed results and analysis can be found in the notebook. Key findings include
 - `docs/`: Contains documentation files and images.
 - `README.md`: Overview of the project.
 - `requirements.txt`: List of dependencies required to run the notebook.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Any sources or individuals you want to thank.
