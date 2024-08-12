@@ -23,7 +23,11 @@ Before you begin, ensure you have met the following requirements:
 
 The example dataset used for this project can be downloaded from the following Google Drive link (10% of the original dataset). We have renamed the original names of our features to X1, X2, X3, etc.:
 
-- [Download Dataset](https://drive.google.com/file/d/1CYNhKvNkQYZ55GPYuLZ4y_lLxTNafi3s/view?usp=sharing)
+- **sampled_10_percent** is for feature selection
+- **10%_Bankruptcy** is for generating the bankrupt firm images
+- **10%_Non_Bankrupty** is for generating non bankrupt firm images
+
+- [Download Dataset](https://drive.google.com/drive/folders/1dtloleNt--fWKUeiaNwS646cg6lY7PRd?usp=sharing)
 
 ## Usage
 
