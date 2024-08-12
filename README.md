@@ -69,6 +69,7 @@ Detailed results and analysis can be found in the notebook. Key findings include
      - `CNNFS_balanced_1_2.h5` - Original Dataset FS2 (2,180:4,360)
      - `CNNFS_balanced_2_all_nonbankrupt.h5` - Original Dataset FS3 (4,360:11,972)
      - `CNNFS_balanced_equal_a half.h5` - Original Dataset FS4 (5,986:5,986)
+   - [Download Trained Models](https://drive.google.com/drive/folders/1dKGtxIEYNX1uOJ6WF1dxMSJnGrGc8Irg?usp=sharing)
    - **Description**: The outcomes of the classification algorithm are detailed across five different datasets, designated FS0 through FS4, tailored to explore the effects of class imbalance on model performance. Performance metrics of the Convolutional Neural Network, including accuracy, precision, recall, and F1-score, demonstrate the model's effectiveness in predicting bankruptcy.
 
 5. **Model Interpretability**:
